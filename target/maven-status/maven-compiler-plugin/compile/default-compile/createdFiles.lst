@@ -1,5 +1,0 @@
-com\myapp\spring\MyApi.class
-com\myapp\spring\repository\ProductRepository.class
-com\myapp\spring\model\Product.class
-com\myapp\spring\api\ProductApi.class
-com\myapp\spring\SprintDemoWebservicesApplication.class
